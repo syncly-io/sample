@@ -1,2 +1,2 @@
 # sample
-    smal change
+    smal channes
