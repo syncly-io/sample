@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './Appss.css'
 
-function wss() {
+func wss() {
   const [count, setCount] = useState(0)
 
   return (
